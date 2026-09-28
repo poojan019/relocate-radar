@@ -1,0 +1,1 @@
+"""RelocateRadar job-posting crawler."""
